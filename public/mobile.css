@@ -1,0 +1,27 @@
+@media screen and (max-width: 700px) {
+	
+	.blueheader h1{
+		font-size: 50px;
+	}
+
+	.row h3{
+		font-size: 25px;
+	}
+
+	.row h4{
+		font-size: 18px;
+	}
+
+	.row p{
+		font-size: 18px;
+	}
+
+	.col-md-12 h2 {
+		margin-top: 4rem;
+	}
+
+	.voting p{
+		font-size: 12px;
+	}
+}
+
